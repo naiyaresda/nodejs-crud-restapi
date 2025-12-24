@@ -1,5 +1,5 @@
 
-## README.md*
+## README.md
 
 md
 # REST API CRUD – Node.js & MySQL
